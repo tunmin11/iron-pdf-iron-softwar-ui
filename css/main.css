@@ -305,7 +305,7 @@ nav a {
 
 .html-2-pdf {
   filter: drop-shadow(-2rem -2rem 2rem rgba(83, 16, 52, 0.7));
-  filter: brightness(99%);
+  /* filter: brightness(99%); */
 }
 
 @media screen and (max-width: 480px) {
